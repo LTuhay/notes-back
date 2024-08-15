@@ -1,0 +1,17 @@
+app/dto/RequestNoteDTO.class
+app/entities/Category.class
+app/services/INoteService.class
+app/controllers/NoteController.class
+app/dto/ResponseCategoryDTO.class
+app/entities/Note.class
+app/services/CategoryService.class
+app/Application.class
+app/services/ICategoryService.class
+app/dto/ResponseNoteDTO.class
+app/services/NoteService.class
+app/repository/ICategoryRepository.class
+app/config/CorsConfig$1.class
+app/controllers/CategoryController.class
+app/config/CorsConfig.class
+app/dto/RequestCategoryDTO.class
+app/repository/INoteRepository.class

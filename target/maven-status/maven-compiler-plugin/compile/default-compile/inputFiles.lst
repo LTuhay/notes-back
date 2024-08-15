@@ -1,0 +1,16 @@
+/home/runner/notes-back/src/main/java/app/Application.java
+/home/runner/notes-back/src/main/java/app/dto/RequestNoteDTO.java
+/home/runner/notes-back/src/main/java/app/config/CorsConfig.java
+/home/runner/notes-back/src/main/java/app/services/CategoryService.java
+/home/runner/notes-back/src/main/java/app/dto/RequestCategoryDTO.java
+/home/runner/notes-back/src/main/java/app/services/INoteService.java
+/home/runner/notes-back/src/main/java/app/services/NoteService.java
+/home/runner/notes-back/src/main/java/app/services/ICategoryService.java
+/home/runner/notes-back/src/main/java/app/controllers/NoteController.java
+/home/runner/notes-back/src/main/java/app/dto/ResponseCategoryDTO.java
+/home/runner/notes-back/src/main/java/app/repository/ICategoryRepository.java
+/home/runner/notes-back/src/main/java/app/controllers/CategoryController.java
+/home/runner/notes-back/src/main/java/app/entities/Note.java
+/home/runner/notes-back/src/main/java/app/repository/INoteRepository.java
+/home/runner/notes-back/src/main/java/app/entities/Category.java
+/home/runner/notes-back/src/main/java/app/dto/ResponseNoteDTO.java
